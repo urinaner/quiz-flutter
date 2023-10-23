@@ -1,16 +1,10 @@
 # quiz
 
-A new Flutter project.
+사자성어 어플
 
-## Getting Started
+## 설명
 
-This project is a starting point for a Flutter application.
+<img width="788" alt="스크린샷 2023-10-23 오후 1 34 09" src="https://github.com/urinaner/quiz-flutter/assets/27186972/3278cfef-942a-4f42-83bf-718754b88a93">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+drf와 연동하여 사자성어를 풀 수 있는 어플입니다.
+관리자/사용자 기능을 부여했으며 문제는 객관식으로 추가/삭제/수정이 가능합니다.
